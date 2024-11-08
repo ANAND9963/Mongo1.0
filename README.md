@@ -15,7 +15,7 @@ This project demonstrates how to perform basic CRUD (Create, Read, Update, Delet
   - [Delete Bear by ID](#delete-bear-by-id)
   - [Update Bear by ID](#update-bear-by-id)
 - [Testing with Postman](#testing-with-postman)
-- [License](#license)
+
 
 ## Project Setup
 
@@ -29,7 +29,3 @@ To run this project locally, you need the following tools installed:
 
 ### Installation Steps
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/mongo-crud-node-express.git
